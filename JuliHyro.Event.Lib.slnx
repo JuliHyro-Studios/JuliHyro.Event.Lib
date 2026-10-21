@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Develop/" />
+  <Folder Name="/Develop/Tests/">
+    <Project Path="Develop/Tests/JuliHyro.Event.Lib.Tests/JuliHyro.Event.Lib.Tests.csproj" />
+  </Folder>
+  <Folder Name="/src/" />
+  <Folder Name="/src/main/" />
+  <Project Path="src/main/JuliHyro.Event.Lib/JuliHyro.Event.Lib.csproj" />
+</Solution>
