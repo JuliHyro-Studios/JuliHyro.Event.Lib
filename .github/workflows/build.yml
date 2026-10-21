@@ -16,8 +16,8 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-  	PROJECT_PATH: src/main/JuliHyro.Event.Lib/JuliHyro.Event.Lib.csproj
-  	OUTPUT_PATH: ./artifacts
+  	  PROJECT_PATH: src/main/JuliHyro.Event.Lib/JuliHyro.Event.Lib.csproj
+  	  OUTPUT_PATH: ./artifacts
 
     steps:
       - name: Checkout repository
